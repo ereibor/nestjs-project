@@ -1,0 +1,1 @@
+# Folder for shared logic (e.g filters, interceptors, guards)
